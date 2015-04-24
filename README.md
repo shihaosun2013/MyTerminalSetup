@@ -1,0 +1,2 @@
+# MyTerminalSetup
+Personal terminal setup
